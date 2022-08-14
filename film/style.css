@@ -1,0 +1,14 @@
+
+.atas{
+    height: 100vh;
+    background-image: url(img/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    opacity: 80%;
+}
+.utama button{
+    margin-top: 300px;
+    background-color: black;
+    color: aliceblue;
+    width: 100px;
+}
